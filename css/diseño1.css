@@ -1,0 +1,17 @@
+body{
+    background: black;
+    background-size: auto;
+    color:white;
+    nav-left: 50px;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+div{
+    
+    background: #e38012 ;
+    color: solid yellowgreen;
+
+}
+
